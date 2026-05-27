@@ -3,7 +3,7 @@
 This repo hosts the homework pages for Stephen & Peace's premarriage course.
 
 - **Session 3 - Communication:** `/session-03/`
-- **Session 4 - Roles in Marriage:** `/session-04/`
+- **Session 4 - Spiritual Life Together:** `/session-04/`
 
 Each session is its own GitHub Pages-ready static site under its subfolder. The repo
 root has a small landing page that links to each session.

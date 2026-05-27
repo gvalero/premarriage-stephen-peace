@@ -1,6 +1,6 @@
 const form = document.querySelector("#homeworkForm");
 const output = document.querySelector("#output");
-const storageKey = "stephen-peace-roles-homework";
+const storageKey = "stephen-peace-spiritual-life-homework";
 
 function collectAnswers() {
   const data = new FormData(form);
@@ -18,7 +18,7 @@ function collectAnswers() {
 function formatAnswers() {
   const answers = collectAnswers();
   const lines = [
-    "Stephen & Peace - Roles in Marriage Homework",
+    "Stephen & Peace - Spiritual Life Homework",
     `Name: ${answers.name || ""}`,
     `Date completed: ${answers.dateCompleted || ""}`,
     `Exported: ${new Date(answers.submittedAt).toLocaleString()}`,
@@ -72,7 +72,7 @@ function downloadAnswers() {
   const url = URL.createObjectURL(blob);
   const link = document.createElement("a");
   link.href = url;
-  link.download = `${name}-roles-homework.txt`;
+  link.download = `${name}-spiritual-life-homework.txt`;
   link.click();
   URL.revokeObjectURL(url);
   refreshOutput();
