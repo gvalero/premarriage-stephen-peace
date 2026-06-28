@@ -4,8 +4,8 @@ This folder is a GitHub Pages-ready static site for Session 5 homework.
 
 Two parts:
 1. **Part A - The Gift Swap** closes our Spiritual Life chapter: each partner, on their
-   own, names the spiritual gift(s) they see in the other, then calls them out through the
-   week when they see them lived out.
+   own, names the spiritual gift(s) they see in the other, then writes down the moments
+   through the week when they catch them living it out (with context: what happened and when).
 2. **Part B - Finances** opens the next chapter the couple chose. The questions mirror the
    book's four areas: unity in finances, tithing, spending habits, and budget (book pp. 54-59).
 
