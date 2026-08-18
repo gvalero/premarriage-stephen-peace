@@ -4,6 +4,8 @@ This repo hosts the homework pages for Stephen & Peace's premarriage course.
 
 - **Session 3 - Communication:** `/session-03/`
 - **Session 4 - Spiritual Life Together:** `/session-04/`
+- **Session 5 - Spiritual Gifts & Finances:** `/session-05/`
+- **Session 6 - Preparing for Intimacy:** `/session-06/`
 
 Each session is its own GitHub Pages-ready static site under its subfolder. The repo
 root has a small landing page that links to each session.
@@ -13,8 +15,6 @@ GitHub Pages is static and has no private form backend. Each form stores answers
 the browser only, then lets Stephen and Peace copy or download their responses and
 send them back manually.
 
-Important privacy note: this page does not send responses anywhere by itself. GitHub Pages is static and has no private form backend. The form stores answers in the browser only, then lets Stephen and Peace copy or download their responses and send them back manually.
-
 Suggested publish path:
 
 1. Create a private or low-visibility GitHub repository under your personal account.
@@ -23,4 +23,3 @@ Suggested publish path:
 4. Share the resulting Pages URL with the couple.
 
 Do not add counsellor notes or profile files to the published page.
-
